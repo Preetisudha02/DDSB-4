@@ -1,10 +1,27 @@
 {
-  "dob": "2004-12-04",
-  "education": "BTech",
-  "email": "routraypreetisudha2004@gmail.com",
-  "fileName": "profile-images/PZprqQNHtugwjBIRzxqREhVeTwc2.JPG",
-  "name": "Preetisudha Routray",
-  "profilePhoto": "https://raw.githubusercontent.com/Preetisudha02/DDS-2/main/profile-images/PZprqQNHtugwjBIRzxqREhVeTwc2.JPG",
-  "repoName": "DDS-2",
-  "uid": "PZprqQNHtugwjBIRzxqREhVeTwc2"
+  "profile": {
+    "backupInfo": {
+      "backupFileName": "backups/backup_PZprqQNHtugwjBIRzxqREhVeTwc2.json",
+      "backupUrl": "https://raw.githubusercontent.com/Preetisudha02/DDSB-4/main/backups/backup_PZprqQNHtugwjBIRzxqREhVeTwc2.json",
+      "lastBackup": "5/20/2026, 9:42:06 AM",
+      "repo": "DDSB-4"
+    },
+    "dob": "2004-12-04",
+    "education": "BTech",
+    "email": "routraypreetisudha2004@gmail.com",
+    "fileName": "profile-images/PZprqQNHtugwjBIRzxqREhVeTwc2.JPG",
+    "name": "Preetisudha Routray",
+    "profilePhoto": "https://raw.githubusercontent.com/Preetisudha02/DDS-2/main/profile-images/PZprqQNHtugwjBIRzxqREhVeTwc2.JPG",
+    "repoName": "DDS-2",
+    "uid": "PZprqQNHtugwjBIRzxqREhVeTwc2"
+  },
+  "notes": {
+    "-Ot2_NHQ4ISQ1svwbU7k": {
+      "content": "A Distributed Database System (DDS) stores data across multiple locations or servers.\n\nAdvantages:\n- Faster access\n- Better reliability\n- Backup support\n- Fault tolerance\n\nTechnologies Used:\n- React JS\n- Firebase Realtime Database\n- GitHub API\n- Material UI\n\nThis project also supports backup and restore using GitHub repositories.",
+      "createdAt": "5/20/2026, 9:41:44 AM",
+      "title": "Distributed Database Concepts",
+      "type": "note"
+    }
+  },
+  "backupCreatedAt": "5/20/2026, 9:44:37 AM"
 }
