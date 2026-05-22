@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "dob": "2004-12-04",
+    "education": "BTech CSE",
+    "email": "22btcse52@suiit.ac.in",
+    "fileName": "profile-images/32C4oMrlTyfq3Zc4jFA3163SRag1.jpg",
+    "lastLogin": "2026-05-22T03:35:35.203Z",
+    "name": "PREETISUDHA ROUTRAY",
+    "profilePhoto": "https://raw.githubusercontent.com/Preetisudha02/DDS-4/main/profile-images/32C4oMrlTyfq3Zc4jFA3163SRag1.jpg",
+    "repoName": "DDS-4",
+    "uid": "32C4oMrlTyfq3Zc4jFA3163SRag1"
+  },
+  "notes": {
+    "-OtCl36zGrunV4bpQrUf": {
+      "content": "Hiii ! let learn react with firebase and DDs",
+      "createdAt": "22/5/2026, 9:08:56 am",
+      "title": "Hello React",
+      "type": "note"
+    }
+  },
+  "backupCreatedAt": "22/5/2026, 9:09:10 am"
+}
